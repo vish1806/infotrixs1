@@ -1,0 +1,11 @@
+@media screen and (max-width: 723px)
+{
+  .quotebox
+  {
+    font-size: large;
+  }
+  .navbar
+  {
+    width: 100%;
+  }
+}

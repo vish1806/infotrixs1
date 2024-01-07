@@ -1,0 +1,43 @@
+
+#button
+{
+  margin-left: 53%;
+  white-space: nowrap;
+  margin-top: 10px;
+}
+
+.quotebox {
+  background: url(./img.jpg);
+  background-size: cover;
+  width: 470px;
+  height: 340px;
+  border-radius: 10px;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 35%;
+  margin-top: 10% ;
+}
+.d-flex
+{
+  padding-left: 40%;
+}
+.basic
+{
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+}
+.btn:hover
+{
+  color: #FFC20F;
+  background-color: #343a40;
+}
+.btn
+{
+  color:#343a40;
+  background-color: #FFC20F;
+}
